@@ -1,4 +1,4 @@
-package topdog_base
+package make_multi
 
 import "base:runtime"
 import "base:intrinsics"
