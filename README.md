@@ -4,6 +4,7 @@ Allocate multiple things in one procedure call. This reduces the number of error
 The code is all auto-generated and can support up to 20 separate allocations.
 
 ## Usage
+Check it out on godbolt: https://godbolt.org/z/4qGPcqGer
 ```odin
 Foo :: struct {
     a, b, c: int
